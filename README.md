@@ -1,10 +1,22 @@
 ## Hi, I'm Devansh👋​
 I’m a developer who enjoys building scalable and efficient applications. I focus on creating clean, reliable solutions and continuously improving my skills through hands-on projects and learning.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shamelesscodes&label=Views&color=1f6feb&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Shamelesscodes?label=Followers&style=flat&color=1f6feb" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Shamelesscodes?affiliations=OWNER&style=flat&color=1f6feb" alt="Stars" />
+</p>
 
+---
 # Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,c,css,docker,fastapi,figma,firebase,gcp,git,github,githubactions,html,java,js,mongodb,mysql,nextjs,nodejs,npm,opencv,postgres,postman,py,pytorch,react,redis,sklearn,reactnative,flutter,sqlite,tailwind,tensorflow,typescript,vercel,vite,vscode,vuejs&perline=14" />
+  </a>
+</p>
 
 # GitHub Stats
-<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=Shamelesscodes&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shamelesscodes&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img alt="Devansh's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=Shamelesscodes&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+  <img width="435" src="https://github-readme-streak-stats.herokuapp.com/?user=Shamelesscodes&theme=buefy" alt="Streak stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shamelesscodes&theme=buefy&utcOffset=8" alt="Productive time" />
+</p>
